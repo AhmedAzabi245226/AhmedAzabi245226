@@ -3,11 +3,14 @@
 Applied Data Science & AI student at **Breda University of Applied Sciences**, focused on **computer vision, NLP and putting models into production**.
 I like taking a model from a notebook all the way to a tested, deployed and monitored system.
 
+🌐 **Portfolio:** [ahmedalezabi1.github.io](https://ahmedalezabi1.github.io), with case studies of all projects below
+
 -  Currently: building an AI museum guide (RAG, speech-to-text, image recognition) for Stedelijk Museum Breda
 -  Interested in: MLOps, computer vision, LLM applications
--  Reach me: [LinkedIn](YOUR-LINKEDIN-URL)
 
 ## Featured projects
+
+Full case studies with results and visuals: **[ahmedalezabi1.github.io](https://ahmedalezabi1.github.io)**
 
 | Project | What it is | Highlights |
 |---|---|---|
