@@ -3,22 +3,22 @@
 Applied Data Science & AI student at **Breda University of Applied Sciences**, focused on **computer vision, NLP and putting models into production**.
 I like taking a model from a notebook all the way to a tested, deployed and monitored system.
 
-🌐 **Portfolio:** [ahmedalezabi1.github.io](https://ahmedalezabi1.github.io), with case studies of all projects below
+🌐 **Portfolio:** [ahmedazabi245226.github.io](https://ahmedazabi245226.github.io), with case studies of all projects below
 
 -  Currently: building an AI museum guide (RAG, speech-to-text, image recognition) for Stedelijk Museum Breda
 -  Interested in: MLOps, computer vision, LLM applications
 
 ## Featured projects
 
-Full case studies with results and visuals: **[ahmedalezabi1.github.io](https://ahmedalezabi1.github.io)**
+Full case studies with results and visuals: **[ahmedazabi245226.github.io](https://ahmedazabi245226.github.io)**
 
 | Project | What it is | Highlights |
 |---|---|---|
-| [**cv4: Root Segmentation**](https://github.com/AhmedAlezabi1/root-segmentation-cv4) | Production root-phenotyping system for NPEC (team of 5) | U-Net, FastAPI + Next.js, Docker, Azure ML GPU endpoint, monitoring, CI |
-| [**Plant Phenotyping & Robotics**](https://github.com/AhmedAlezabi1/plant-phenotyping-robotics) | CV pipeline that guides a lab robot to inoculate plant roots | U-Net segmentation, PID vs. reinforcement learning, **50/50 plants within 1 mm** |
-| [**Emotion Classification (NLP)**](https://github.com/AhmedAlezabi1/emotion-classification-nlp) | Video → transcript → translation → emotion pipeline (team of 3) | Fine-tuned RoBERTa-Large, Whisper/AssemblyAI, EN↔NL translation model |
-| [**ScanFresh**](https://github.com/AhmedAlezabi1/food-freshness-cnn) | App concept that detects spoiled fruit from a photo | EfficientNet **95 % accuracy**, explainable AI, bias analysis, A/B-tested prototype |
-| [**Diabetes Hospital Analytics**](https://github.com/AhmedAlezabi1/diabetes-hospital-ml) | ML on 100k hospital records | Regression, classification, clustering, SQL EDA |
+| [**cv4: Root Segmentation**](https://github.com/AhmedAzabi245226/root-segmentation-cv4) | Production root-phenotyping system for NPEC (team of 5) | U-Net, FastAPI + Next.js, Docker, Azure ML GPU endpoint, monitoring, CI |
+| [**Plant Phenotyping & Robotics**](https://github.com/AhmedAzabi245226/plant-phenotyping-robotics) | CV pipeline that guides a lab robot to inoculate plant roots | U-Net segmentation, PID vs. reinforcement learning, **50/50 plants within 1 mm** |
+| [**Emotion Classification (NLP)**](https://github.com/AhmedAzabi245226/emotion-classification-nlp) | Video → transcript → translation → emotion pipeline (team of 3) | Fine-tuned RoBERTa-Large, Whisper/AssemblyAI, EN↔NL translation model |
+| [**ScanFresh**](https://github.com/AhmedAzabi245226/food-freshness-cnn) | App concept that detects spoiled fruit from a photo | EfficientNet **95 % accuracy**, explainable AI, bias analysis, A/B-tested prototype |
+| [**Diabetes Hospital Analytics**](https://github.com/AhmedAzabi245226/diabetes-hospital-ml) | ML on 100k hospital records | Regression, classification, clustering, SQL EDA |
 
 ## Tech stack
 
