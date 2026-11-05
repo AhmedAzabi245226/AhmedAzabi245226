@@ -1,12 +1,15 @@
 # Hi, I'm Ahmed 👋
 
-Applied Data Science & AI student at **Breda University of Applied Sciences**, focused on **computer vision, NLP and putting models into production**.
-I like taking a model from a notebook all the way to a tested, deployed and monitored system.
+Third-year Applied Data Science & AI student at **Breda University of Applied Sciences**, focused on **computer vision, NLP and putting models into production**.  
+I like building AI projects that people can actually use: I prepare the data, train the models, put them online and keep them running.
 
-🌐 **Portfolio:** [ahmedazabi245226.github.io](https://ahmedazabi245226.github.io), with case studies of all projects below
+🌐 **Portfolio:** [ahmedazabi245226.github.io](https://ahmedazabi245226.github.io), with case studies of all projects below  
+📄 **CV:** [Download my CV](https://ahmedazabi245226.github.io/assets/Ahmed_Alezabi_CV.pdf)  
+📫 **Email:** [nasrahmed523@gmail.com](mailto:nasrahmed523@gmail.com)
 
--  Currently: building an AI museum guide (RAG, speech-to-text, image recognition) for Stedelijk Museum Breda
+-  Currently: Data & AI Engineer on UGUIDU, an AI museum guide for Stedelijk Museum Breda. I build the dataset and the data pipeline, and I will also work on the models.
 -  Interested in: MLOps, computer vision, LLM applications
+-  Looking for: an internship in data science or AI from February 2027
 
 ## Featured projects
 
